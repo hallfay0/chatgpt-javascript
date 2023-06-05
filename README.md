@@ -1,4 +1,4 @@
-# chatgpt-web
+# chatgpt-web（待用）
 Pure Javascript ChatGPT demo based on OpenAI API 
 
 纯JS实现的ChatGPT项目，基于OpenAI API
